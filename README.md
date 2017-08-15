@@ -2,8 +2,8 @@
 Chrome extension that remove Google ads in your research results.
 
 ## What we get
-![disabled](./SS1.png "disabled")
-![enabled](./SS2.png "enabled")
+![disabled](http://i.imgur.com/Z5zgeQU.png "disabled")
+![enabled](http://i.imgur.com/vHAQ71i.png "enabled")
 
 ## How it works
 The extension simply remove the ads elements when the DOM is loaded.
