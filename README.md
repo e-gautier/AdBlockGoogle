@@ -13,7 +13,7 @@ Coz I hate these ads.
 
 ## Install
 ### Chrome web store
-_soon_ ~~if it's validated~~
+https://chrome.google.com/webstore/detail/adblockgoogle/imofnfnbggjihebhjknmahgihnljpkkl
 ### From sources
 1. Download the sources.
 2. In Chrome go to **More tools** then **Extensions**.
