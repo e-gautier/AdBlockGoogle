@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AdBlockGoogle",
-  "version": "1.0",
+  "version": "1.2",
   "default_locale": "en",
   "description": "Remove ads from Google.",
   "icons": { "64": "main_icon.png" },
