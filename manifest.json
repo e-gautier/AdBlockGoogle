@@ -10,7 +10,7 @@
     "default_popup": "popup.html"
   },
   "content_scripts": [{
-    "_comment": "Wildcard are not allowed on TLD... #sad",
+    "_comment": "Wildcard are not allowed on TLD... :(",
     "matches": [
       "http://www.google.com/search*", "https://www.google.com/search*",
       "http://www.google.ad/search*", "https://www.google.ad/search*",
@@ -199,7 +199,8 @@
       "http://www.google.co.za/search*", "https://www.google.co.za/search*",
       "http://www.google.co.zm/search*", "https://www.google.co.zm/search*",
       "http://www.google.co.zw/search*", "https://www.google.co.zw/search*",
-      "http://www.google.cat/search*", "https://www.google.cat/search*"
+      "http://www.google.cat/search*", "https://www.google.cat/search*",
+      "https://duckduckgo.com/*"
     ],
     "js": ["removeAd.js"]
   }]
