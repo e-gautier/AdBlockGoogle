@@ -14,6 +14,8 @@ Coz I hate these ads.
 ## Install
 ### Chrome web store
 https://chrome.google.com/webstore/detail/adblockgoogle/imofnfnbggjihebhjknmahgihnljpkkl
+### Firefox addon
+https://addons.mozilla.org/en-US/firefox/addon/adblockgoogle
 ### From sources
 1. Download the sources.
 2. In Chrome go to **More tools** then **Extensions**.
