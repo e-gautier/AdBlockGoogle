@@ -8,9 +8,6 @@ Chrome extension that remove Google ads in your research results.
 ## How it works
 The extension simply remove the ads elements when the DOM is loaded.
 
-## Why
-Coz I hate these ads.
-
 ## Install
 ### Chrome web store
 https://chrome.google.com/webstore/detail/adblockgoogle/imofnfnbggjihebhjknmahgihnljpkkl
